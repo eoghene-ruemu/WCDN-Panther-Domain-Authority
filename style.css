@@ -1,1 +1,8 @@
+:root {
+  --bg-1: #1a103d;      /* deep purple */
+  --bg-2: #0d0820;      /* darker purple */
+  --bg-3: #050312;      /* nearly black */
+  --accent: #a855f7;    /* royal purple */
+  --accent-soft: #eab308; /* metallic gold */
+}
 
