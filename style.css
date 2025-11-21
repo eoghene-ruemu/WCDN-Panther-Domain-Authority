@@ -1,10 +1,10 @@
-
+/* 🔮 Panther Theme (Black Panther royal palette) */
 :root {
-  --bg-1: #0f172a;   /* deep navy */
-  --bg-2: #020617;   /* almost black */
-  --bg-3: #000000;
-  --accent: #38bdf8; /* vibranium teal/blue */
-  --accent-soft: #e879f9; /* magenta highlight (optional) */
+  --bg-1: #1a103d;      /* deep purple */
+  --bg-2: #0d0820;      /* darker purple */
+  --bg-3: #050312;      /* nearly black */
+  --accent: #a855f7;    /* royal purple */
+  --accent-soft: #eab308; /* metallic gold */
 }
 
 /* GLOBAL PAGE STYLE */
@@ -39,7 +39,7 @@ body {
 
 .tagline {
   margin: 0;
-  color: #9ca3af;
+  color: #c9c5e3;
   font-size: 0.98rem;
 }
 
@@ -66,11 +66,11 @@ body {
 
 /* CARDS */
 .card {
-  background: rgba(15, 23, 42, 0.9);
+  background: rgba(20, 12, 40, 0.9);
   border-radius: 16px;
   padding: 20px 22px;
   margin-bottom: 20px;
-  border: 1px solid #1f2937;
+  border: 1px solid #2c1d4a;
   box-shadow: 0 12px 35px rgba(0, 0, 0, 0.5);
 }
 
@@ -81,14 +81,5 @@ body {
 
 .card ul {
   padding-left: 1.2rem;
-}
-
-
-:root {
-  --bg-1: #1a103d;      /* deep purple */
-  --bg-2: #0d0820;      /* darker purple */
-  --bg-3: #050312;      /* nearly black */
-  --accent: #a855f7;    /* royal purple */
-  --accent-soft: #eab308; /* metallic gold */
 }
 
